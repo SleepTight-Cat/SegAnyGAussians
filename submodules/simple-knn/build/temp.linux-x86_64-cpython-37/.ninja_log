@@ -1,0 +1,4 @@
+# ninja log v6
+10	32756	1731987598101385982	/home/projects/u7774680/SegAnyGAussians/submodules/simple-knn/build/temp.linux-x86_64-cpython-37/simple_knn.o	abd19f299be5b3d2
+3	46875	1731987598101385982	/home/projects/u7774680/SegAnyGAussians/submodules/simple-knn/build/temp.linux-x86_64-cpython-37/ext.o	1a639646e6a285bb
+11	74869	1731987598101385982	/home/projects/u7774680/SegAnyGAussians/submodules/simple-knn/build/temp.linux-x86_64-cpython-37/spatial.o	ce656cabdbd95e7e
